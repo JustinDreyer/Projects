@@ -12,3 +12,5 @@ This projects pulls data from the ChEMBL database in order to create a linear re
 * **Input:** ChEMBL canonical smiles notation and IC50 values
 * **Output:** Linear regression model
 
+Photo by <a href="https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">National Cancer Institute</a> on <a href="https://unsplash.com/s/photos/molecular-biology?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
