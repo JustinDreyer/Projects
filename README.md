@@ -2,7 +2,7 @@
 *Data Science Student*
 
 # Education
-* Masters of Science (Applied Information and Data Science), *Lucerne University of Applied Sciences and Arts*, 2021-
+* Masters of Science (Applied Information and Data Science), *HSLU*, 2021-
 * Master of Chemistry, *University of St Andrews*, 2014-2020
 
 # [Project 1: QSAR modeling of Histamine H3 agonists/inverse agonists]
