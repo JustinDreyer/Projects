@@ -9,7 +9,7 @@
 ![alt text](model_comparisons.png)
 
   
-This projects pulls data from the ChEMBL database in order to create a linear regression model of Histamine H3 agonists/inverse agonists.
+This projects pulls data from the ChEMBL database in order to create a QSAR model of Histamine H3 agonists/inverse agonists.
 * **Python libraries used:** Pandas, numpy, rdkit, Seaborn, padelpy, matplotlib, sklearn
 * **Input:** ChEMBL canonical smiles notation and IC50 values
 * **Output:** QSAR model of Histamine H3 agonists/inverse agonists
