@@ -1,8 +1,8 @@
 # Justin Dreyer
-*Data Science Student*
+*Master's Student, Applied Information and Data Science*
 
 # Education
-* Masters of Science (Applied Information and Data Science), *HSLU*, 2021-
+* Masters of Science, Applied Information and Data Science, *HSLU*, 2021-2023
 * Master of Chemistry, *University of St Andrews*, 2014-2020
 
 # QSAR modeling of Histamine H3 agonists/inverse agonists
