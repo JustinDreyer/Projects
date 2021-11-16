@@ -5,7 +5,7 @@
 * Masters of Science (Applied Information and Data Science), *HSLU*, 2021-
 * Master of Chemistry, *University of St Andrews*, 2014-2020
 
-# [Project 1: QSAR modeling of Histamine H3 agonists/inverse agonists]
+# QSAR modeling of Histamine H3 agonists/inverse agonists
 ![alt text](national-cancer-institute-L7en7Lb-Ovc-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">National Cancer Institute</a> on <a href="https://unsplash.com/s/photos/molecular-biology?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -14,11 +14,13 @@ Photo by <a href="https://unsplash.com/@nci?utm_source=unsplash&utm_medium=refer
 This projects pulls data from the ChEMBL database in order to create a linear regression model of Histamine H3 agonists/inverse agonists.
 * **Python libraries used:** Pandas, numpy, rdkit, Seaborn, padelpy, matplotlib, sklearn
 * **Input:** ChEMBL canonical smiles notation and IC50 values
-* **Output:** Linear regression model
+* **Output:** QSAR model of Histamine H3 agonists/inverse agonists
 
-# [Sports analytics: Homecourt advantage in the National Basketball Association]
-![alt text](<img width="534" alt="NBA_Win%" src="https://user-images.githubusercontent.com/93955962/141872813-8d49689d-6e21-4bf2-9e8f-16a453c4e2b8.png">
-)
+# Sports analytics: Homecourt advantage in the National Basketball Association
+![alt text](NBA_Win%.png)
 
+* Team statistics web-scraped from www.NBA.com 
+* Exploratory data analysis and visualization of the win percentage of teams, when playing at their home stadium versus opponent’s stadium
+* Discovered that on average, teams win 35% more games when playing in their own stadium
   
 
