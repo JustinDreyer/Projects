@@ -16,5 +16,9 @@ This projects pulls data from the ChEMBL database in order to create a linear re
 * **Input:** ChEMBL canonical smiles notation and IC50 values
 * **Output:** Linear regression model
 
+# [Sports analytics: Homecourt advantage in the National Basketball Association]
+![alt text](<img width="534" alt="NBA_Win%" src="https://user-images.githubusercontent.com/93955962/141872813-8d49689d-6e21-4bf2-9e8f-16a453c4e2b8.png">
+)
 
   
+
