@@ -13,7 +13,7 @@ This projects pulls data from the ChEMBL database in order to create a QSAR mode
 * **Python libraries used:** Pandas, numpy, rdkit, Seaborn, padelpy, matplotlib, sklearn
 * **Input:** ChEMBL canonical smiles notation and IC50 values
 * **Output:** Linear Regression model of glucagon-like peptide 1 agonists/inverse agonists
-[View project in GitHub](https://github.com/JustinDreyer/Projects/blob/main/Glucagon_like_peptide_1_Regression_Model.ipynb)
+* [View project in GitHub](https://github.com/JustinDreyer/Projects/blob/main/Glucagon_like_peptide_1_Regression_Model.ipynb)
 
 # Sports analytics: Homecourt advantage in the National Basketball Association
 ![alt text](NBA_Win%.png)
@@ -21,5 +21,5 @@ This projects pulls data from the ChEMBL database in order to create a QSAR mode
 * Team statistics web-scraped from www.NBA.com 
 * Exploratory data analysis and visualization of the win percentage of teams, when playing at their home stadium versus opponent’s stadium
 * Discovered that on average, teams win 35% more games when playing in their own stadium
-[View project in GitHub](https://github.com/JustinDreyer/Projects/blob/main/NBA_Homecourt_Advantage.ipynb)
+* [View project in GitHub](https://github.com/JustinDreyer/Projects/blob/main/NBA_Homecourt_Advantage.ipynb)
 
