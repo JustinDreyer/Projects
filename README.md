@@ -9,10 +9,10 @@
 ![alt text](model_comparisons.png)
 
   
-This projects pulls data from the ChEMBL database in order to create a QSAR model of Histamine H3 agonists/inverse agonists.
+This projects pulls data from the ChEMBL database in order to create a QSAR model of glucagon-like peptide 1 agonists/inverse agonists.
 * **Python libraries used:** Pandas, numpy, rdkit, Seaborn, padelpy, matplotlib, sklearn
 * **Input:** ChEMBL canonical smiles notation and IC50 values
-* **Output:** QSAR model of Histamine H3 agonists/inverse agonists
+* **Output:** Linear Regression model of glucagon-like peptide 1 agonists/inverse agonists
 
 # Sports analytics: Homecourt advantage in the National Basketball Association
 ![alt text](NBA_Win%.png)
