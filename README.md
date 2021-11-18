@@ -5,7 +5,7 @@
 * Master of Science, Applied Information and Data Science, *HSLU*, 2021-2023
 * Master of Chemistry, *University of St Andrews*, 2014-2020
 
-# Linear Regression Model of **glucagon-like peptide** 1 agonists/inverse agonists
+# Linear Regression Model of **glucagon-like peptide 1** agonists/inverse agonists
 ![alt text](model_comparisons.png)
 
   
